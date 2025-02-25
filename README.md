@@ -11,5 +11,5 @@ Ziel ist es, ein Frontend mit Vue.js zu entwickeln.
 ## 🛠 Installation & Nutzung
 1. **Repository klonen**
    ```sh
-   git clone https://github.com/DEIN-USERNAME/DEIN-REPOSITORY.git
+   git clone https://github.com/LorenoBiffi/vueProjekt.git
    cd vueProjekt
